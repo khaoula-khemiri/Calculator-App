@@ -19,7 +19,7 @@
 .display{
   padding:16px;
   text-align: right;
-  background-color:rgb(11, 3, 36);
+  background-color:rgb(138, 159, 165);
   color: #eee;
   font-size: 24px;
   font-weight: 700;
@@ -27,14 +27,12 @@
 }
 .display span{
   font-size: 14px;
-  color:#888;
+  color:rgb(59, 58, 58);
 }
 
 button{
   appearance: none;
-  border:none;
   outline:none;
-  color:black;
   font-size:20px;
   padding:16px;
   cursor:pointer;
@@ -51,9 +49,10 @@ display:flex;
 
 .operators button{
  flex:1 1 0%;
- background-color: rgba(35, 18, 184, 0.849);
+ background-color: rgba(18, 137, 184, 0.849);
  color: #eee;
  font-weight: 700;
+ border-color:rgba(16, 81, 107, 0.849) ;
  }
 
 .digits{
@@ -66,6 +65,7 @@ flex-wrap:wrap;
 flex:1 1 33%;
 font-weight: 700;
 color: #eee;
-background-color: rgb(11, 3, 36);
+background-color: rgb(9, 78, 134);
+border-color:rgb(9, 51, 85) ;
 
 }
