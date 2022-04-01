@@ -1,3 +1,5 @@
+# App Description
+
 With the Calculator-App, you can  calculate simple functions(addition, subtraction, multiplication and division) in an ergonomic application.
 
 Please don't hesitate to open an issue or pull request. You can also send me a message on [Twitter](https://twitter.com/KhaoulaKhemiri).
